@@ -18,7 +18,7 @@ body{
     max-width: 532px;
 }
 html{
-    background-image: radial-gradient(gray,black);
+    background-image: radial-gradient(bisque,black);
 }
 .navbar{
     background-image: linear-gradient(to top right, rgb(31, 31, 31), rgba(158, 40, 40));
@@ -80,14 +80,12 @@ main{
     text-align: center;
     margin: 1rem auto 1rem;
     font-size: small;
-    flex-grow: 1;
     align-items: center;
+    flex-grow: 1;
+    color: whitesmoke;
 }
 main video{
     display: block;
     border-radius: 0.5rem;
-}
-h2{
-    color: whitesmoke;
-    margin-bottom: 1rem;
+    margin: 1rem auto 1rem;
 }
