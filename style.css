@@ -22,7 +22,6 @@ html{
 }
 .navbar{
     background-image: linear-gradient(to top right, rgb(31, 31, 31), rgba(158, 40, 40));
-    box-shadow: 1px 1px 5px black;
 }
 .navdiv{
     display: flex;
